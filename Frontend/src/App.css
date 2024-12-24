@@ -1,0 +1,118 @@
+body {
+  background-color: #C5EBAA;
+  font-family: Arial, sans-serif;
+    font-family: 'Kalam', cursive;
+
+}
+
+.App {
+  text-align: center;
+  font-family: 'Kalam', cursive;
+}
+
+.App-header {
+  background-color: #729762;
+  padding: 20px;
+  color: white;
+
+
+}
+
+.App-header h1 {
+  margin: 0;
+  font-size: 2.5em;
+   font-family: 'Kalam', cursive;
+}
+
+.App-header input {
+  padding: 10px;
+  font-size: 1em;
+  margin-top: 20px;
+  width: 50%;
+  max-width: 600px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+    font-family: 'Kalam', cursive;
+}
+
+.lista-de-recetas {
+  margin: 20px auto;
+  max-width: 800px;
+  text-align: left;
+}
+
+.lista-de-recetas ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.lista-de-recetas li {
+  display: flex;
+  align-items: flex-start; /* Alinea los elementos en la parte superior */
+  justify-content: space-between; /* Separa el texto y la imagen */
+  background-color: white;
+  padding: 20px;
+  margin: 10px 0;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.lista-de-recetas li div:first-child {
+  flex: 1; /* El texto ocupa el espacio disponible */
+}
+
+.lista-de-recetas h2 {
+  margin: 0 0 10px;
+  font-size: 1.5em;
+  color: #333;
+}
+
+.lista-de-recetas p {
+  margin: 0;
+  color: #666;
+}
+.imagen-contenedor{
+
+ width: 150px; /* Tamaño fijo de la imagen */
+ height:100px;
+ margin-left: 20px; /* Espaciado entre texto e imagen */
+ flex-shrink: 0; /* Evita que la imagen se reduzca */
+}
+
+.receta-imagen {
+width: 100%; /* Ocupa todo el ancho del contenedor */
+  height: 120%;
+  object-fit: cover; /* Ajusta la imagen sin distorsión */
+  border-radius: 4px;
+
+}
+.search-container {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+
+}
+
+.search-container input {
+    padding: 10px;
+    font-size: 16px;
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+
+
+
+}
+
+.search-container select {
+ padding: 10px;
+   font-size: 16px;
+   border: 1px solid #ccc;
+   border-radius: 5px;
+   background-color: #fff;
+   cursor: pointer;
+   margin-top: 19px;
+     font-family: 'Kalam', cursive;
+
+}
