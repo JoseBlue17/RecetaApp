@@ -1,0 +1,15 @@
+com\demo\demo\Demo1Application.class
+com\demo\services\RecetaService.class
+com\demo\config\GlobalExceptionHandler.class
+com\demo\utils\RecetaMapper.class
+com\demo\repository\IngredienteRepository.class
+com\demo\entity\Ingrediente.class
+com\demo\config\GlobalExceptionHandler$ErrorResponse.class
+com\demo\config\OpenAPIConfig.class
+com\demo\entity\Receta.class
+com\demo\dto\RecetaDTO.class
+com\demo\entity\RecetaIngrediente.class
+com\demo\exceptions\CustomException.class
+com\demo\entity\Usuario.class
+com\demo\controller\RecetaController.class
+com\demo\repository\RecetaRepository.class

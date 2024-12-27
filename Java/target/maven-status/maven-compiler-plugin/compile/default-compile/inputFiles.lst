@@ -1,0 +1,14 @@
+C:\Users\PC\Documents\RecetaApp\Java\src\main\java\com\demo\config\GlobalExceptionHandler.java
+C:\Users\PC\Documents\RecetaApp\Java\src\main\java\com\demo\config\OpenAPIConfig.java
+C:\Users\PC\Documents\RecetaApp\Java\src\main\java\com\demo\controller\RecetaController.java
+C:\Users\PC\Documents\RecetaApp\Java\src\main\java\com\demo\demo\Demo1Application.java
+C:\Users\PC\Documents\RecetaApp\Java\src\main\java\com\demo\dto\RecetaDTO.java
+C:\Users\PC\Documents\RecetaApp\Java\src\main\java\com\demo\entity\Ingrediente.java
+C:\Users\PC\Documents\RecetaApp\Java\src\main\java\com\demo\entity\Receta.java
+C:\Users\PC\Documents\RecetaApp\Java\src\main\java\com\demo\entity\RecetaIngrediente.java
+C:\Users\PC\Documents\RecetaApp\Java\src\main\java\com\demo\entity\Usuario.java
+C:\Users\PC\Documents\RecetaApp\Java\src\main\java\com\demo\exceptions\CustomException.java
+C:\Users\PC\Documents\RecetaApp\Java\src\main\java\com\demo\repository\IngredienteRepository.java
+C:\Users\PC\Documents\RecetaApp\Java\src\main\java\com\demo\repository\RecetaRepository.java
+C:\Users\PC\Documents\RecetaApp\Java\src\main\java\com\demo\services\RecetaService.java
+C:\Users\PC\Documents\RecetaApp\Java\src\main\java\com\demo\utils\RecetaMapper.java
